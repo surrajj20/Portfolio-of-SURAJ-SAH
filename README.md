@@ -1,2 +1,2 @@
-# Personal Website containing details information about suraj-sah.
+# Personal Website Containing Details Information About Suraj-Sah.
 #### https://surrajj20.github.io/Portfolio-of-SURAJ-SAH/.
