@@ -108,6 +108,7 @@ figure {
   @media screen and (max-width: 768px) {
     #colorlib-aside {
       width: 300px;
+      background-color: #52FB09 !important;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -258,6 +259,10 @@ figure {
     #colorlib-main {
       width: 100%;
       padding: 0 1em; } }
+
+#colorlib-aside .text-center .home a {
+  color: rgb(255, 0, 179) !important;
+}
 
 #colorlib-hero {
   min-height: 500px;
