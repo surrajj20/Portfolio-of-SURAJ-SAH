@@ -20,6 +20,21 @@ body {
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } }
+      /* h2{
+        text-align: center;
+    }
+      canvas {
+        background: #EEE;
+        position: fixed;
+        top: 0;
+        left: 0;
+      }} */
+      /* canvas {
+        background: #EEE;
+        position: fixed;
+        top: 0;
+        left: 0;
+      } */
 
 a {
   color: #2c98f0;
@@ -108,7 +123,6 @@ figure {
   @media screen and (max-width: 768px) {
     #colorlib-aside {
       width: 300px;
-      background-color: #52FB09 !important;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -385,7 +399,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background: #f2f3f7;
+    background: #52FB09;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {

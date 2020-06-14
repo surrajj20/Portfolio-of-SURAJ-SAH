@@ -33,8 +33,8 @@ body {
   color: rgba(0, 0, 0, 0.7); }
   @media screen and (max-width: 992px) {
     body {
-      font-size: 16px; } }
-
+      font-size: 16px; }}
+  
 a {
   color: #2c98f0;
   -webkit-transition: 0.5s;
@@ -120,7 +120,6 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
-      background-color:#FB09E3 !important ;
       width: 300px;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
@@ -386,7 +385,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background: #f2f3f7;
+    background: #FB09E3;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
